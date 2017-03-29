@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\picasso-2.5.0_201d8191b3ae8a50cd4402401f304a0c90bb4a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Euclid-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_336af4b08345b5a5ceff622d105ce38340a264d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Euclid-master\sample\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-core\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\com.nhaarman.listviewanimations-lib-core-3.1.0_ff1ad6de0f4ff7696c22dc602b9a8592edcec72e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Euclid-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_4061edb44ca747a50ddd894b899e50e474a48e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\library-2.4.0_6fa54a1c5dd6faced0d6b49678d2bce480fe5ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Euclid-master\sample\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="990aaea33c54b40347e1f6243dbf4ae8f1d71d3f">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\com.github.ozodrukh-CircularReveal-1.0.5_ec7124bc2dea114324b8f7996b0c5fe1426da2d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_814bb1eec92646ec5d4a8614b20eb8769a415786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Euclid-master\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_42f14e2d39ce4ef47ad38fe64eceafb089655374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\Euclid-master\sample\build\intermediates\exploded-aar\Euclid-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="41bc72ed8383bb8983ee5c34da37121a072b0b2c">
+        <dex dex="D:\github-source\Euclid-master\sample\build\intermediates\pre-dexed\debug\Euclid-master-library-unspecified_e7e01db29378005f0b060e0b8361adc50513b5f1.jar" />
+    </item>
+
+</items>
